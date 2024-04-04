@@ -1,10 +1,3 @@
-//
-//  ViewController.h
-//  Lesson6
-//
-//  Created by хех on 21.02.2024.
-//
-
 #import <UIKit/UIKit.h>
 #import "Robot.h"
 
@@ -17,10 +10,6 @@
 @property (strong,nonatomic) Robot* robot;
 
 - (IBAction)showRobotToTextView:(UIButton *)sender;
-
-
-
-
 
 @end
 
