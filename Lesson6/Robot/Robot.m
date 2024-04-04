@@ -1,10 +1,3 @@
-//
-//  Robot.m
-//  Lesson6
-//
-//  Created by хех on 21.02.2024.
-//
-
 #import "Robot.h"
 
 @implementation Robot
