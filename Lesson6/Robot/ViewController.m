@@ -1,12 +1,4 @@
-//
-//  ViewController.m
-//  Lesson6
-//
-//  Created by хех on 21.02.2024.
-//
-
 #import "ViewController.h"
-
 
 @interface ViewController ()
 
@@ -17,17 +9,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 }
-
-//- (void)viewWillAppear:(BOOL)animated{
-//    [super viewWillAppear:animated];
-//    NSUserDefaults* defaultsSettins = [NSUserDefaults standardUserDefaults];
-//    NSInteger x = [defaultsSettins integerForKey:@"X"];
-//    NSInteger y = [defaultsSettins integerForKey:@"Y"];
-//    NSString *name = [defaultsSettins stringForKey:@"name"];
-////    NSLOG
-//    
-//}
-
 
 - (IBAction)showRobotToTextView:(UIButton *)sender {
     NSUserDefaults* defaultsSettins = [NSUserDefaults standardUserDefaults];
