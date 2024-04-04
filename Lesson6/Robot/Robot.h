@@ -1,10 +1,3 @@
-//
-//  Robot.h
-//  Lesson6
-//
-//  Created by хех on 21.02.2024.
-//
-
 #import <Foundation/Foundation.h>
 
 NS_ASSUME_NONNULL_BEGIN
